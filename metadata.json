@@ -1,0 +1,6 @@
+{
+  "name": "AI-Powered Smart Placement Companion",
+  "description": "Your Personal AI Mentor for Career Success - Placement preparation platform with AI resume analyzer, smart job matcher, mock interviews, practice zone, and readiness scores.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
